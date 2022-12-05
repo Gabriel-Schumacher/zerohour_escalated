@@ -1,0 +1,14 @@
+ModificationType: Mod
+Name: escalatedmod
+Version: 2.0
+SimpleDownloadLink: https://1drv.ms/u/s!Ascd7MxdsUVPu11_8WS6bWxA3al_?e=I4qIAS
+UIImageSourceLink: ''
+DiscordLink: https://discord.com/invite/q6yh9p5ctu
+ModDBLink: https://www.moddb.com/mods/zero-hour-escalated
+NewsLink: https://www.moddb.com/mods/zero-hour-escalated/news/zero-hour-escalated-beta-20-has-been-released1
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: escalatedmod
+S3FolderName: escalatedmod
+S3HostPublicKey: ''
+S3HostSecretKey: ''
