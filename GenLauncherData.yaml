@@ -1,0 +1,14 @@
+ModificationType: Mod
+Name: Zero Hour Escalated
+Version: 2.0
+SimpleDownloadLink: https://onedrive.live.com/embed?cid=4F45B15DCCEC1DC7&resid=4F45B15DCCEC1DC7%217654&authkey=AIx5__K2vRfJdbw
+UIImageSourceLink: https://i.imgur.com/iOe663h.png
+DiscordLink: https://discord.com/invite/q6yh9p5ctu
+ModDBLink: https://www.moddb.com/mods/zero-hour-escalated
+NewsLink: https://www.moddb.com/mods/zero-hour-escalated/articles
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: escalatedmod
+S3FolderName: escalatedmod
+S3HostPublicKey: ''
+S3HostSecretKey: ''
